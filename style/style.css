@@ -1,10 +1,12 @@
+
+
 body {
     background-color: pink;
     overflow: hidden;
 }
 
 .block_text {
-    background-color: white;
+   
     margin-top: 20%;
     margin-left: auto;
     margin-right: auto;
@@ -14,5 +16,7 @@ body {
 }
 
 .block_text h1 {
-    font-size: 5rem;
+   
+    font-size: 4rem;
 }
+
